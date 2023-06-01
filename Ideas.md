@@ -1,1 +1,0 @@
-- get this synced up with docusaurus or a free version of obsidian publish
