@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "5afc45d4fb122211",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffaf0cb98d1c75dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a675bc8f08f30d20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f142cddaa7abd6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d7369a9b659c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b958244415f9ed63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20121b0bba42f99e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aws",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d6de0e6193c918c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5e0036bc9221f0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5
+  },
+  "right": {
+    "id": "1b6407c58a4e6a87",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cbb16aeff828d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa644e2f41c50c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0076b979df0047e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "911cc14ce3d36c44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ae5842d6f12c867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e28f46f8a482c62",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "b958244415f9ed63",
+  "lastOpenFiles": [
+    "0. Dev Logs/2023-05-31.md",
+    "1. Kanban/3. Other.md",
+    "1. Kanban/2. AWS.md",
+    "1. Kanban/1. Python.md",
+    "1. Kanban/0. Documentation.md",
+    "0. Dev Logs/2023-05-30.md",
+    "0. Dev Logs/2023-05-06.md",
+    "2. Tickets/2. AWS/Sync Data to S3.md",
+    "2. Tickets/0. Documentation/Set up Docs on Github.md",
+    "2. Tickets/1. Python/API design.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2. Tickets/3. Other",
+    "2. Tickets/2. AWS",
+    "2. Tickets/1. Python",
+    "2. Tickets/0. Documentation",
+    "1. Kanban/1..md",
+    "0. Dev Logs/daily_note_template.md",
+    "4. Reports",
+    "3. Meetings",
+    "2. Tickets",
+    "1. Kanban",
+    "0. Dev Logs"
+  ]
+}
