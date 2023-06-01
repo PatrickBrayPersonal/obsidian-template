@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ffaf0cb98d1c75dd",
+        "id": "bb90e7de44e55e46",
         "type": "tabs",
         "children": [
           {
-            "id": "a675bc8f08f30d20",
+            "id": "8278db063500e6b1",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "43a4a976b1580620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Meetings/JW 2023-05-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "954aa652e998737d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Reports/Example Slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd44504554306b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Tickets/3. Other/Example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Tickets/3. Other/Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Tickets/3. Other/Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Tickets/3. Other/Example.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,10 +156,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b958244415f9ed63",
+  "active": "8278db063500e6b1",
   "lastOpenFiles": [
-    "4. Reports/Example Slides.md",
+    "Example Slides.md",
+    "Untitled.md",
     "2. Tickets/3. Other/Example.md",
+    "4. Reports/Example Slides.md",
     "3. Meetings/JW 2023-05-31.md",
     "0. Dev Logs/2023-05-31.md",
     "1. Kanban/3. Other.md",
